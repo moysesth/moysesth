@@ -20,6 +20,10 @@
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+
+![Snake animation](https://github.com/moysesth/moysesth/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 👨🏻‍💻 Laptop in use
 <img src="https://img.shields.io/badge/ASUS-ROG_Strix-333333?style=for-the-badge&logo=asus&logoColor=white"/><img src="https://img.shields.io/badge/Win10-000000?style=for-the-badge&logo=windows&logoColor=white"/>
 
