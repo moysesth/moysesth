@@ -7,7 +7,7 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🔭 I’m currently studying at [Código do Futuro - Gama Academy](https://codigodofuturo.corporate.gama.academy/).
+- 🔭 I’m currently studying at [Código do Futuro - Gama Academy](https://codigodofuturo.corporate.gama.academy/) - Full Stack Developer path.
 - 🌱 I’m currently learning more about Angular and .Net.
 - 🤔 I’m looking for help with projects that needs an extra pair of hands.
 - 💬 Ask me about any tech-related stuff or random subjects.
