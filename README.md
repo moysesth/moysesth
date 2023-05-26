@@ -8,7 +8,7 @@
 # 💫 About Me :
 - 💻 I'm currently working at [Farmarcas](https://www.farmarcas.com.br/) as Full Stack Developer.
 - 🎯 I've done a Full Stack Developer bootcamp at [Código do Futuro - Gama Academy](https://codigodofuturo.corporate.gama.academy/).
-- 🌱 I'm currently learning more about Angular, React and .Net.
+- 🌱 I'm currently learning more about Angular, React, Next JS and .Net.
 - 🤔 I'm looking for help with projects that needs an extra pair of hands.
 - 💬 Ask me about any tech-related stuff or random subjects.
 - 📫 How to reach me: Check social links below.
