@@ -27,7 +27,7 @@
 
 
 ## 👨🏻‍💻 Laptop in use
-<img src="https://img.shields.io/badge/Apple-MacBook_Air_M2-999999?style=for-the-badge&logo=apple&logoColor=white"/><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apple-MacBook_Air_M2-999999?style=for-the-badge&logo=apple&logoColor=white"/>
 
 
 ## 📈 Activity Graph
