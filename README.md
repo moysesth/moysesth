@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moysesth&label=Views&color=blue&style=plastic&style=for-the-badge" alt="moysesth" /> </p>
 
 # 💫 About Me :
-- 💻 I'm currently working at [Farmarcas](https://www.farmarcas.com.br/) as Full Stack Developer.
+- 💻 I'm currently working as Backend Developer.
 - 🎯 I've done a Full Stack Developer bootcamp at [Código do Futuro - Gama Academy](https://codigodofuturo.corporate.gama.academy/).
 - 🌱 I'm currently learning more about Angular, React, Next JS and .Net.
 - 🤔 I'm looking for help with projects that needs an extra pair of hands.
