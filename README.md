@@ -14,10 +14,12 @@
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I can't wash dishes without music.
 - 😄 Pronouns: He/His.
+- 
 <!-- - 👨‍💻 Check out my personal portfolio: -->
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moysesthomaz) [![Portfolio](https://img.shields.io/badge/portfolio-12100E?style=for-the-badge&logo=github&logoColor=white)](https://moysesth.github.io/portfolio/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moysesthomaz) 
+<!-- [![Portfolio](https://img.shields.io/badge/portfolio-12100E?style=for-the-badge&logo=github&logoColor=white)](https://moysesth.github.io/portfolio/)  -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/moytath)   -->
 
 ## 💻 Tech Stack
