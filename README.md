@@ -24,7 +24,7 @@
 ## 💻 Tech Stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) 	 
 
-![snake animation](https://github.com/moysesth/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/moysesth/moysesth/blob/output/github-contribution-grid-snake2.svg)
 
 
 ## 👨🏻‍💻 Laptop in use
