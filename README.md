@@ -14,7 +14,6 @@
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I can't wash dishes without music.
 - 😄 Pronouns: He/His.
-- 
 <!-- - 👨‍💻 Check out my personal portfolio: -->
 
 ## 🌐 Socials
